@@ -1,0 +1,9 @@
+# Compiled files
+*.exe
+/campusledger
+
+# Local student database
+/students.dat
+
+# Temporary files
+*.tmp
